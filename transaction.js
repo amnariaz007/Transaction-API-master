@@ -12,7 +12,6 @@ const Tx = require('ethereumjs-tx').Transaction
 const Web3EthAccounts = require('web3-eth-accounts');
 
 
-
 web3.setProvider(
 	new web3.providers.HttpProvider(
 		
